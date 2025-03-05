@@ -2,7 +2,7 @@ The project that is used to measure the bundle size is the same exact project
 
 - Setup: Framework + TawillindCSS
 - Three components
-    - A page contains a component that fetches some blog posts and display them in a grid the important note is the blogs are fetched in build time in all three projects
+    - A page contains a component that fetches some blog posts and display them in a grid the important note is the blogs are fetched in build time in all projects
     - A page contains a component with a counter and a button to increase this counter
     - A home Page contains only two links for these pages
 
